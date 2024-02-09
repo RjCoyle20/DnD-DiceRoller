@@ -1,5 +1,12 @@
+html{
+  background-color: darkred;
+  color: rgb(228, 214, 214);
+}
+
 .App {
   text-align: center;
+  background-color: rgb(228, 214, 214);
+  color: rgb(75, 72, 73)
 }
 
 .App-logo {
